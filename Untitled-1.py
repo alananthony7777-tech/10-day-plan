@@ -1,0 +1,7 @@
+name= input ("Enter Your Name: ")
+age= input ("Entert your age: ")
+hob= input ("Enter your Hobbies: ")
+print("-----------------------------------------------------------------------------------------------")
+print("Your Name is:",name)
+print("Your Age is:",age)
+print("Your Hobbies are:",hob)
